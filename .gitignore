@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Installer/build outputs
+Output/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Coverage / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
